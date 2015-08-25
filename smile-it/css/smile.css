@@ -1,0 +1,193 @@
+#face{
+  position: absolute;
+  height:720px;
+  width: 720px;
+  background-color: yellow;
+  
+}
+.eye{
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  margin-top: 80px;
+
+}
+.cornea{
+  position: relative;
+  width: 120px;
+  height: 120px;
+  background-color: white;
+  margin:20px auto;
+}
+#left{
+  float: left;
+  margin-left: 80px;
+}
+#right{
+  float:right;
+  margin-right: 80px;
+}
+
+.pupil{
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  background: black;
+  top: 118px;
+  margin-left: 80px;
+}
+
+#mouth{
+  height: 240px;
+  position: absolute;
+  width: 440px;
+  /*background-color: black;*/
+  top: 230px;
+  margin-left: 120px;
+
+}
+.tongue-background{
+  height: 160px;
+  width: 360px;
+  background-color: purple;
+  float: right;
+  margin-right: 40px;
+  position: relative;
+  bottom: 92px;
+}
+
+.tongue{
+  height: 80px;
+  width: 120px;
+  background-color: #FF77FF;
+  float: left;
+  position: relative;
+  left: 280px;
+  bottom:172px;
+
+}
+
+.face-up{
+  width:560px;
+  height:40px ;
+  background-color: black;
+  margin: 0 auto;
+  top: -40px;
+  position: relative;
+
+}
+
+.face-down{
+  position: relative;
+  width:560px;
+  height:40px ;
+  background-color: black;
+  margin: 0 auto;
+  top: 582px;
+}
+
+
+.face-left{
+  position: relative;
+  width:40px;
+  height:560px ;
+  background-color: black;  
+  top: -56px;
+  left:-40px;
+}
+
+
+
+.corner1
+{
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  top: -58px;
+  position: relative;
+
+}
+
+.corner2
+{
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  top: -698px;
+  position: relative;
+
+}
+
+.corner3
+{
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  left: 600px;
+  top: -138px;
+  position: relative;
+
+}
+
+
+.corner4
+{
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  left: 600px;
+  top: -780px;
+  position: relative;
+
+}
+
+
+
+.mouth-up{
+  width:480px;
+  height: 40px;
+  background-color: black;
+  position: relative;
+  top: 126px;
+  left: -38px;
+
+}
+.mouth-left{
+  width: 40px;
+  height: 160px;
+  background-color: black;
+  position: relative;
+  top:68px;
+}
+
+.mouth-down{
+  width:360px;
+  height: 40px;
+  background-color: black;
+  position: relative;
+  top: 267px;
+  right: -40px;
+
+}
+
+.tongue-left
+{
+  width: 40px;
+  height: 120px;
+  background-color: black;
+  position: relative;
+  left: 240px;
+  top: -13px;
+
+}
+
+.tongue-up
+{
+  width: 160px;
+  height: 40px;
+  background-color: black;
+  position: relative;
+  left: 240px;
+  top: -172px;
+}
+
